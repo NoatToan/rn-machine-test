@@ -114,3 +114,12 @@ yarn && yarn ios
 │   ├── index.js
 └── ...
 ```
+
+### Install my app:
+Deploygate:
+- Android: https://dply.me/wwvc0t
+- Ios: https://dply.me/mzk3xn
+
+Diawi:
+- Android: https://i.diawi.com/UHfATw
+- Ios: https://i.diawi.com/sS1mxQ
