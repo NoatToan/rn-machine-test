@@ -47,7 +47,7 @@ yarn && yarn ios
 - ✅ Implement pull-to-refresh on the ListScreen
 - [ ] Add a search bar to filter items on the ListScreen
 - [ ] Add some additional filter options
-- [ ] Create a new screen for adding new items.
+- ✅ Create a new screen for adding new items.
 - ✅ Instead of mock data, you can use your own backend with SQL database or NOSQL database.
 
 ### Better TODO:
